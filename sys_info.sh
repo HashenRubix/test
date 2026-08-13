@@ -9,4 +9,4 @@ free -h
 echo "current network mode :" 
 ip route | grep default
 
-echo " Bye !"
+echo " Bye Hashen!"
