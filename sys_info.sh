@@ -1,5 +1,7 @@
 #! /bin/bash
 
+echo "welcome to bash test"
+
 echo " Date and Time :" 
 date
 
